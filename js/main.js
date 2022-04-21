@@ -42,4 +42,3 @@ for (let i = 1; i <= 10; i++) {
 
 
 
-//https://ru.stackoverflow.com/questions/1106079/%D0%A6%D0%B8%D0%BA%D0%BB%D1%8B-%D0%B8-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F
